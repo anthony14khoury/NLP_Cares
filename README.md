@@ -6,6 +6,8 @@ Datasets we're going to use:
     - https://en.wikipedia.org/wiki/Glossary_of_medicine
     - https://apps.lib.umich.edu/medical-dictionary/
     - https://stacks.cdc.gov/view/cdc/11500
+    - https://huggingface.co/datasets/gamino/wiki_medical_terms
+    - https://huggingface.co/datasets/Medilora/us_medical_license_exam_textbooks_en
     
 - Fine-tuning:
     - NBME (in repo)
